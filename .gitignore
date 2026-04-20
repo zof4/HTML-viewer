@@ -1,0 +1,10 @@
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# Java
+backend/target/
+
+# Logs
+*.log
+.DS_Store
